@@ -1,0 +1,8 @@
+langchain-openai
+openai 
+transformers
+ipykernel
+notebook
+wavio
+scipy
+sounddevice
